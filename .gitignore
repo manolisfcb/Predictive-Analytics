@@ -8,3 +8,12 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Large data files
+*.jsonlines
+
+# macOS metadata
+.DS_Store
+
+# Node dependencies
+node_modules/
